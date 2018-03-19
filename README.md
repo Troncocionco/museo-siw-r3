@@ -16,3 +16,4 @@ Tecnologie utilizzate:
 	</ul>
 - [URL server (Amazon Web Service)](52.14.177.148): http://sample-env-1.bvgdja33yg.us-east-2.elasticbeanstalk.com
 - URL Database:	jdbc:postgresql://dbsiwproject.ckqdpqtsiqj7.eu-west-2.rds.amazonaws.com/progetto
+NB: Entrambe le risorse non sono più attive
